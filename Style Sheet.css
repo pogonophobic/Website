@@ -1,0 +1,20 @@
+body{
+	font-family: Georgia, serif;
+	background-color: rgb(223,223,214);
+	padding: 100px;
+	color:#355465;
+} 
+a{ color:green;
+	text-decoration: none;
+}
+a:hover {color: #b23c3c; }
+
+h2{
+		text-transform:uppercase;
+		font-size: 16px;
+}
+#location-header{
+	border-top:1px solid;
+	margin-top:	40px;
+	padding-top:20px;
+}
